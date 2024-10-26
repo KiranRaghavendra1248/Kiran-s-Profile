@@ -141,7 +141,7 @@ const workExperiences = {
       companylogo: require("./assets/images/wdlogo.jpeg"),
       date: "June. 2022 – Aug. 2023",
       descBullets: [
-        "Created a log extraction tool, with RESTful APIs for backend using Node and Express, and front-end using React, resulting in a 28% reduction in bug burndown time. Used docker containers for scalability and deployed on AWS.",
+        "Created a log extraction tool, with RESTful APIs for backend using Node & Express, and front-end using React, resulting in a 28% reduction in bug burndown time. Used docker containers for scalability and deployed on AWS.",
         "Addressed production bugs and maintained legacy code for UFS protocol read/write, memory map, unmap and power mode features according to project requirements."
       ] 
     },
