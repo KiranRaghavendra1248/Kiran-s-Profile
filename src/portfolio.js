@@ -153,7 +153,7 @@ const workExperiences = {
       descBullets: [
         "Developed novel application for sign language recognition using Tensorflow and Streamlit, deployed on AWS EC2.",
         "Researched SOTA techniques for Sign Language Recognition. Preprocessed video frames using OpenCV.",
-        "Trained Graph-CNN and Separable Spatial Temporal CNN on RGB and RGB-depth data with added facial key points resulting in 91% top1 accuracy on AUTSL multi modal dataset."
+        "Trained Graph-CNN and Separable Spatial Temporal CNN on RGB & RGB-depth data with added facial key points resulting in 91% top1 accuracy on AUTSL multi modal dataset."
       ]
     }
   ]
