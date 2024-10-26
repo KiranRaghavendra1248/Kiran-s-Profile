@@ -26,7 +26,7 @@ const greeting = {
     "A passionate software engineer with a diverse skill set. Proficient in crafting web and mobile apps, backend, AI/ML pipelines and deployment. Delved deep in the field of Natural Language, Computer Vision, Multi Modal AI & Reinforcement Learning"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1aWvGbW0eQaooRgsAQdYb8C1Gd0mMmCxe/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1KG7dQtVzOW_87WPjmX-v0zsXo3RhKx4z/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
