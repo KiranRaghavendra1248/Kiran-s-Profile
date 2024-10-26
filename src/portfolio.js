@@ -130,8 +130,8 @@ const workExperiences = {
       companylogo: require("./assets/images/wdlogo.jpeg"),
       date: "June. 2022 – Aug. 2023",
       descBullets: [
-        "Designed system architecture & database schema by creating a High Level Design of Client Server architecture",
-        "Created REST API routes to handle ride submission, ride requests, driver matching, and ride cancellation on Node and Express server-side integrated with MySQL database.",
+        "Spearheaded development of features for read error handling, cvd caching, time tag allocation and update in C.",
+        "Designed validation strategies and end-to-end feature validation tests in Python, leading to a 14% increase in firmware reliability.",
         "Developed bash shell scripts to automate routine tasks on Linux distributions and addressed production bugs."
       ] 
     },
@@ -141,6 +141,7 @@ const workExperiences = {
       companylogo: require("./assets/images/wdlogo.jpeg"),
       date: "June. 2022 – Aug. 2023",
       descBullets: [
+        "Created a log extraction tool, with RESTful APIs for backend using Node and Express, and front-end using React, resulting in a 28% reduction in bug burndown time. Used docker containers for scalability and deployed on AWS.",
         "Addressed production bugs and maintained legacy code for UFS protocol read/write, memory map, unmap and power mode features according to project requirements."
       ] 
     },
