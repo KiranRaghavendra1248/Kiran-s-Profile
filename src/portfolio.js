@@ -125,18 +125,18 @@ const workExperiences = {
       ]
     },
     {
-      role: "Embedded Software Engineer",
+      role: "Software Engineer",
       company: "Western Digital",
       companylogo: require("./assets/images/wdlogo.jpeg"),
       date: "June. 2022 – Aug. 2023",
       descBullets: [
-        "Spearheaded development of features for read error handling, cvd caching, time tag allocation and update in C.",
+        "Spearheaded development of features for read error handling, cvd caching, allocation and update in C.",
         "Designed validation strategies and end-to-end feature validation tests in Python, leading to a 14% increase in firmware reliability.",
         "Developed bash shell scripts to automate routine tasks on Linux distributions and addressed production bugs."
       ] 
     },
     {
-      role: "Embedded Software Engineer Intern",
+      role: "Software Engineer Intern",
       company: "Western Digital",
       companylogo: require("./assets/images/wdlogo.jpeg"),
       date: "June. 2022 – Aug. 2023",
